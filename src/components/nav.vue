@@ -74,7 +74,7 @@
         <div class="flex flex-wrap items-center space-x-2 sm:space-x-4">
           <a href="https://www.linkedin.com/in/alihusseintechandfinance/" target="_blank" class="hover:text-indigo-400 transition text-xs sm:text-sm">LinkedIn</a>
           <a href="https://github.com/AliHusseinAs" target="_blank" class="hover:text-indigo-400 transition text-xs sm:text-sm">GitHub</a>
-          <a href="/cv.pdf" target="_blank" class="hover:text-indigo-400 transition text-xs sm:text-sm">CV</a>
+          <a href="/Ali_Hussein_CV.pdf" target="_blank" class="hover:text-indigo-400 transition text-xs sm:text-sm">CV</a>
         </div>
 
         <!-- Contact Button -->
