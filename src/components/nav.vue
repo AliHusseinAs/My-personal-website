@@ -38,18 +38,18 @@
       <div class="text-xl md:text-2xl font-light font-serif text-white">Ali Hussein</div>
 
       <div class="flex items-center space-x-4">
-        <div class="hidden md:flex items-center space-x-4">
+        <div class="hidden sm:flex items-center space-x-4">
           <a href="https://www.linkedin.com/in/alihusseintechandfinance/" target="_blank" class="hover:text-indigo-400 transition text-sm">LinkedIn</a>
           <a href="https://github.com/AliHusseinAs" target="_blank" class="hover:text-indigo-400 transition text-sm">GitHub</a>
           <a href="/cv.pdf" target="_blank" class="hover:text-indigo-400 transition text-sm">CV</a>
         </div>
         <a
           href="mailto:alihussein10x@gmail.com"
-          class="bg-indigo-500 hover:bg-indigo-600 text-white font-semibold py-2 px-3 rounded-full shadow-md transition-colors duration-300 text-xs md:text-sm"
+          class="bg-indigo-500 hover:bg-indigo-600 text-white font-semibold py-2 px-3 rounded-full shadow-md transition-colors duration-300 text-xs sm:text-sm"
         >
           Contact Me
         </a>
-        </div>
+      </div>
     </div>
   </nav>
 </template>
