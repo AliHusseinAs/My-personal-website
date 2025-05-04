@@ -50,6 +50,7 @@
     { name: "Linux", icon: "linux" }, 
     { name: "Git", icon: "git"},
     { name: "GitHub", icon:"github" },
+    { name: "TailwindCSS", icon: "tailwindcss"}
   ];
   
   const otherSkills = ref([
